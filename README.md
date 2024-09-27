@@ -13,6 +13,27 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 
 The ERD above outlines the structure of the database, showcasing the relationships between the **stores**, **products**, **category**, **sales**, and **warranty** tables.
 
+
+
+Here’s the shortened and improved version of the "What’s Included" and "Why Choose This Project" sections, along with the link:
+
+---
+
+### What’s Included:
+- **100 SQL Practice Problems**: Extensive coverage of major SQL topics for mastering concepts with real-world data.
+- **20 Advanced SQL Queries**: Step-by-step solutions for complex queries, enhancing your skills in performance tuning and optimization.
+- **5 Detailed Tables**: Comprehensive datasets with over 1 million rows, including sales, stores, product categories, products, and warranties.
+- **Query Performance Tuning**: Learn to optimize queries for real-world data handling.
+- **Portfolio-Ready Project**: Showcase your SQL expertise through large-scale data analysis.
+
+### Why Choose This Project?
+- **Hands-on Learning**: Practical experience with complex datasets and advanced business problem-solving.
+- **Comprehensive Coverage**: Each table provides new opportunities to explore SQL concepts.
+- **Exceptional Value**: For just **$9**, access 100 SQL problems, 20 advanced query solutions, and a real-world project.
+- **Limited Offer**: Special price available for the **first 100 students**!
+
+**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
+
 ## Database Schema
 
 The project uses five main tables:
