@@ -9,7 +9,7 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](https://github.com/najirh/Advanced-SQL-Project---Apple-Store-Million-Rows-datasets/blob/main/erd.png)
+![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
 
 The ERD above outlines the structure of the database, showcasing the relationships between the **stores**, **products**, **category**, **sales**, and **warranty** tables.
 
