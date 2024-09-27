@@ -115,12 +115,6 @@ This project primarily focuses on developing and showcasing the following SQL sk
 - **Correlation Analysis**: Applying SQL functions to determine relationships between variables, such as product price and warranty claims.
 - **Real-World Problem Solving**: Answering business-related questions that reflect real-world scenarios faced by data analysts.
 
-## Target Audience
-
-This project is designed for aspiring and experienced data analysts who want to:
-- Strengthen their SQL skills by working with large datasets.
-- Showcase their ability to handle complex queries and data analysis.
-- Prepare for SQL-based interview questions often asked in data analyst and business intelligence roles.
 
 ## Dataset
 
