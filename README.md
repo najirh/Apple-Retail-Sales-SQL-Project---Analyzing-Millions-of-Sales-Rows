@@ -1,6 +1,8 @@
 
 # ![Apple Logo](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
+**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
+
 ## Project Overview
 
 This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By tackling a variety of questions, from basic to complex, you'll demonstrate your ability to write sophisticated SQL queries that extract valuable insights from large datasets.
@@ -11,9 +13,7 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 
 ![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
 
-The ERD above outlines the structure of the database, showcasing the relationships between the **stores**, **products**, **category**, **sales**, and **warranty** tables.
-
-
+**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
 
 Here’s the shortened and improved version of the "What’s Included" and "Why Choose This Project" sections, along with the link:
 
